@@ -1,26 +1,27 @@
-# TodoMVC App Template
+# Todoapp
 
-> Template used for creating [TodoMVC](http://todomvc.com) apps
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
-![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Getting started
+## Code scaffolding
 
-- Read the [Application Specification](https://github.com/tastejs/todomvc/blob/master/app-spec.md) before touching the template.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Delete this file and rename `app-readme.md` to `readme.md` and fill it out.
+## Build
 
-- Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Importante:
+## Running unit tests
 
-El CSS original se encuentra aquí
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-```
-npm install todomvc-app-css --save
-```
+## Running end-to-end tests
 
-## License
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://sindresorhus.com" property="cc:attributionName" rel="cc:attributionURL">TasteJS</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
